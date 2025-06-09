@@ -62,28 +62,9 @@ PORT=3000
 
 # Rode o servidor em modo desenvolvimento
  
-npm run dev  # Webpack observando alterações
-npm start     # Inicia o servidor com Nodemon
+- npm run dev  # Webpack observando alterações
+
+- npm start     # Inicia o servidor com Nodemon
  
- 
-# Estrutura de pastas
- 
-Agenda/
-├── frontend/
-│   ├── assets/
-│   ├── modules/
-│   ├── main.js/
-│  
-├── public/
-│   ├── assets/
-│   └── bundle.js
-├── src/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── views/
-├── server.js
-├── webpack.config.js
-├── .env
-├── package.json
-└── README.md
+
+
