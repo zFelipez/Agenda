@@ -1,5 +1,5 @@
 # Agenda
-Este projeto, de uma agenda , eu mesmo realizei juntamente com o professor Luiz Otavio Miranda(https://github.com/luizomf) durante seu curso de javascript online na udemy. 
+Este projeto, de uma agenda , eu mesmo realizei acompanhando o professor Luiz Otavio Miranda(https://github.com/luizomf) durante seu curso de javascript online na udemy. 
 
 
  Projeto Agenda
